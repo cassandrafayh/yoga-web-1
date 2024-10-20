@@ -71,3 +71,10 @@ header {
     background-size: cover;
     background-position: center;
 }
+
+
+/* background images */
+.bg-prayer { 
+    background-image: url(images/yoga-web-1-prayer.jpg);
+    background-position: 50% 35%;
+}
