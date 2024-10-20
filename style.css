@@ -1,8 +1,19 @@
+
+/* CSS Reset - Put this at the start of every project */
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
+
+/* ------- Temporary Styles for Structural html ------- */
+* {
+    padding: 0.5rem;
+    border: 1px solid orange;
+}
+
+
 
 /* Image Styles */
 .bg-image {
