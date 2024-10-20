@@ -13,6 +13,9 @@
     border: 1px solid orange;
 }
 
+body { border: none; }
+html { border: none; }
+
 
 
 /* Image Styles */
