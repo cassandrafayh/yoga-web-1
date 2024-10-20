@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+/* Image Styles */
+.bg-image {
+    background-image: url('/images/');
+    background-size: cover;
+    min-height: 10rem;
+}
+
+
+
 
 /* Universal Styles & Utility Classes */
 
