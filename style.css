@@ -10,20 +10,11 @@
 /* ------- Temporary Styles for Structural html ------- */
 * {
     padding: 0.5rem;
-    border: 1px solid orange;
+    border: 1px solid rgb(132, 132, 132);
 }
 
 body { border: none; }
 html { border: none; }
-
-
-
-/* Image Styles */
-.bg-image {
-    background-image: url('/images/yoga-web-1-pebble-beach.jpg');
-    background-size: cover;
-    min-height: 10rem;
-}
 
 
 
@@ -33,6 +24,15 @@ html { border: none; }
 .padded { padding: 5% }
 .padded-sm { padding: 1rem; }
 .padded-lg { padding: 10%;}
+
+.bg-dark {
+    background-color: rgb(18, 0, 138);
+    color: white
+}
+
+.bg-light {
+    background-color: aquamarine;
+}
 
 
 
@@ -87,7 +87,16 @@ header {
 }
 
 
-/* background images */
+/* Image Styles */
+.bg-image {
+    background-image: url('/images/yoga-web-1-pebble-beach.jpg');
+    background-size: cover;
+    min-height: 10rem;
+}
+
+
+
+/* Background Images */
 .bg-prayer { 
     background-image: url(images/yoga-web-1-prayer.jpg);
     background-position: 50% 35%;
