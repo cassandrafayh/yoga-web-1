@@ -26,12 +26,11 @@ html { border: none; }
 .padded-lg { padding: 10%;}
 
 .bg-dark {
-    background-color: rgb(18, 0, 138);
-    color: white
+    background-color: #79B987;
 }
 
 .bg-light {
-    background-color: aquamarine;
+    background-color: #BFD8BD;
 }
 
 
