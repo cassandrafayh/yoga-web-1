@@ -13,9 +13,13 @@
     border: 1px solid rgb(132, 132, 132);
 }
 
-body { border: none; }
-html { border: none; }
+body { border: none; 
+    font-family: 'Montserrat', sans-serif;
+    color: #40503f;
+}
 
+
+html { border: none; }
 
 
 
@@ -26,11 +30,11 @@ html { border: none; }
 .padded-lg { padding: 10%;}
 
 .bg-dark {
-    background-color: #79B987;
+    background-color: #A8CAA5;
 }
 
 .bg-light {
-    background-color: #BFD8BD;
+    background-color: #DDE7C7;
 }
 
 
