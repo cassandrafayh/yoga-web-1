@@ -92,3 +92,11 @@ header {
     background-image: url(images/yoga-web-1-prayer.jpg);
     background-position: 50% 35%;
 }
+
+.bg-warrior3 {
+    background-image: url(images/yoga-web-1-warrior3.jpg) ;
+}
+
+.bg-youtube {
+    background-image: url(images/yoga-web-1-youtube.jpg) ;
+}
