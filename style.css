@@ -23,6 +23,7 @@ html { border: none; }
 
 
 
+
 /* Universal Styles & Utility Classes */
 
 .padded { padding: 5% }
@@ -45,6 +46,12 @@ html { border: none; }
 .tall-80 { min-height: 80vh; }
 .tall-90 { min-height: 90vh; }
 .tall-100 { min-height: 100vh; }
+
+
+.text-left    { text-align: left;   }
+.text-center  { text-align: center; }
+.text-right   { text-align: right;  }
+
 
 
 
@@ -74,20 +81,29 @@ a{
     border-bottom: 1px solid;
 }
 
+.header-h1 {
+    color: white;
+}
 
-.text-left    { text-align: left;   }
-.text-center  { text-align: center; }
-.text-right   { text-align: right;  }
+.header-h3 {
+    color: white;
+}
+
+.home-nav {
+    color: white;
+}
 
 
 
 /* Header & Footer Styles */
 
 header {
-    background-image:url(/images/yoga-web-1-pebble-beach.jpg) ; 
+    background-image:url(/images/yoga-web-1-ocean.jpg) ; 
     background-size: cover;
     background-position: center;
 }
+
+
 
 
 /* Image Styles */
@@ -96,6 +112,7 @@ header {
     background-size: cover;
     min-height: 10rem;
 }
+
 
 
 
