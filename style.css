@@ -128,7 +128,7 @@ header {
 /* Background Images */
 .bg-prayer { 
     background-image: url(images/yoga-web-1-prayer.jpg);
-    background-position: 50% 35%;
+    background-position: 50% 60%;
 }
 
 .bg-youtube {
@@ -137,7 +137,7 @@ header {
     min-height: 20rem;
 }
 
-.bg-forwardfold {
-    background-image: url(images/yoga-web-1-forwardfold.jpg) ;
-    background-position: 50% 36%;
-
+.bg-mats {
+    background-image: url(images/yoga-web-1-mats.jpg) ;
+    background-position: 50% 5%;
+}
