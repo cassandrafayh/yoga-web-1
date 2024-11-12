@@ -39,7 +39,7 @@ html { border: none; }
 }
 
 
-
+.tall-40 {min-height: 40vh; }
 .tall-50 {min-height: 50vh;  }
 .tall-60 { min-height: 60vh; }
 .tall-70 {min-height: 70vh;}
@@ -102,6 +102,10 @@ a{
     color: #40503f;
 }
 
+.footer-p {
+    font-size: 0.8rem;
+}
+
 
 
 /* Header & Footer Styles */
@@ -141,3 +145,4 @@ header {
     background-image: url(images/yoga-web-1-cushions.jpg) ;
     background-position: 50% 32%;
 }
+
