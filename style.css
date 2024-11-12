@@ -8,10 +8,10 @@
 
 
 /* ------- Temporary Styles for Structural html ------- */
-* {
+/** {
     padding: 0.5rem;
     border: 1px solid rgb(132, 132, 132);
-}
+}*/
 
 body { border: none; 
     font-family: 'Montserrat', sans-serif;
@@ -99,7 +99,7 @@ a{
 }
 
 .book-h2 {
-    color: white;
+    color: #40503f;
 }
 
 
@@ -137,7 +137,7 @@ header {
     min-height: 20rem;
 }
 
-.bg-mats {
-    background-image: url(images/yoga-web-1-mats.jpg) ;
-    background-position: 50% 5%;
+.bg-cushions {
+    background-image: url(images/yoga-web-1-cushions.jpg) ;
+    background-position: 50% 32%;
 }
